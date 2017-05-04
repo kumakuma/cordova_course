@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.kumakuma.cordova"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.kumakuma.cordova"
         }
     },
     "dependent_plugins": {}
